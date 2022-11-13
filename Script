@@ -296,11 +296,3 @@ vis:NewButton("Валлхак", "Включает/Обновляет просм�
     )
 end)
 end
-
---local HWIDTable = loadstring(game:HttpGet("https://pastebin.com/raw/yHi2E5Ur"))()
---local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
-
---for i,v in pairs(HWIDTable) do
---if v == HWID then
---    end
---end
